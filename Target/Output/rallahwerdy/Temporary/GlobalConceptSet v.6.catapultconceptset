@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///E:/C-Drive/rbutros/Documents/My Translated Projects/Thu79.liprjf/Target/Output/rallahwerdy/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="Topic1.htm" />
+    <Url
+      Source="Topic1.htm.skl" />
+    <Url
+      Source="Topic1.htm.xlf" />
+    <Url
+      Source="Topic2.htm" />
+    <Url
+      Source="Topic2.htm.skl" />
+    <Url
+      Source="Topic2.htm.xlf" />
+    <Url
+      Source="vInfo.png" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

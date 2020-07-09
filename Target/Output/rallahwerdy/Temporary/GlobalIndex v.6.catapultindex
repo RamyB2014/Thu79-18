@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///E:/C-Drive/rbutros/Documents/My Translated Projects/Thu79.liprjf/Target/Output/rallahwerdy/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries />
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Topic1.htm" />
+    <Url
+      Source="Topic1.htm.skl" />
+    <Url
+      Source="Topic1.htm.xlf" />
+    <Url
+      Source="Topic2.htm" />
+    <Url
+      Source="Topic2.htm.skl" />
+    <Url
+      Source="Topic2.htm.xlf" />
+    <Url
+      Source="vInfo.png" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls />
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
